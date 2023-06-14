@@ -12,7 +12,7 @@
 
 ## Overview
 
-What's In Your Fridge is a web application that users can use to track the items in their homes - whether it be the refrigerator, deep freezer, or pantry.
+What's In Your Fridge is a web application that users can use to track the perishables in the home - whether it be the refrigerator, deep freezer, or pantry.
 
 <!-- ### The challenge
 
@@ -38,8 +38,12 @@ Add a screenshot! -->
 - Backend: NodeJS, Express, MongoDB
 - State Management: Redux
 - Image Storage: Cloudinary
-- Email: Nodemailer
 - Deployment: Vercel for the frontend and Render for the backend.
+
+## Future Developments
+
+- User can scan barcode to upload food item
+- App can recommend commonly bought items together when a food item's quantity is set to low
 
 ## Author
 
